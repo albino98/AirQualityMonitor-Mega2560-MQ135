@@ -44,3 +44,11 @@ Air quality monitor with Mega2560 R3 board and MQ135 sensor.
 |---                      |---           |
 | GND                     | - (GND)      |
 | 5V                      | + (Vcc)      |
+
+<br/>
+<br/>
+<br/>
+
+
+![immagine](https://user-images.githubusercontent.com/63566699/168480130-0ef0f336-6f63-43b6-8ace-ef48d2dd34be.png)
+
